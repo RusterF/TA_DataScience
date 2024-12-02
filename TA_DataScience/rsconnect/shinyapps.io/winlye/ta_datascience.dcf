@@ -1,0 +1,10 @@
+name: ta_datascience
+title:
+username: winlye
+account: winlye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13499109
+bundleId: 9449137
+url: https://winlye.shinyapps.io/ta_datascience/
+version: 1
